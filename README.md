@@ -85,4 +85,3 @@ This script:
 
 - The notebooks provide exploratory analysis and visualizations related to the same forecasting workflow.
 - The model training script is the main reproducible pipeline for generating the final comparison metrics.
-- This branch in Solar PV is for developement testing.
