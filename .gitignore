@@ -1,0 +1,27 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter / notebook metadata
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Optional: generated outputs
+*.log
+
+# Keep project data tracked unless you explicitly want to ignore it
+# Plant_2_Generation_Data.csv
+# Plant_2_Weather_Sensor_Data.csv
+# model_comparison.csv
